@@ -1,0 +1,1 @@
+./tmp folder needs to be created with write access for php scripts. 
